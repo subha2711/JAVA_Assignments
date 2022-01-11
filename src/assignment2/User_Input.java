@@ -43,7 +43,7 @@ public class User_Input {
 	System.out.println("My name is " + name + ". I am "+ age +" years old, " +gender +"."+
 			 "\nI work at "+work+" as " +jobRole+"."+"\nI currently live in " +currPlace+
 			". I am originally from "+ fromPlace+". I make "+sal+" dollar. "
-			+ "\nI will get "+raise+" as annual raise so my total salary would be "+ totalSalary+" dollar next year.");
+			+ "\nI will get "+raise+" as annual raise so my total salary would be "+ totalSalary+"dollar next year.");
 	
 	}
 
